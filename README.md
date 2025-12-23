@@ -277,7 +277,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🌟 Acknowledgment
+## 🌟 Acknowledgments
 
 Built with appreciation for the open-source community and inspired by the world's finest content platforms. Special thanks to all contributors who have helped shape this project.
 
